@@ -5,7 +5,6 @@
 )](https://www.linkedin.com/in/joão-pedro-dos-santos-gomes-a48613203/)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JpGomes28&show_icons=true&theme=dracula)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
